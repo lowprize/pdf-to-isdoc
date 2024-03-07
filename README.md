@@ -11,3 +11,6 @@ node export.js NAZEV_SOUBORU.PDF
 
 **Vyuziva knihovny**
 https://github.com/deltazero-cz/node-isdoc-pdf
+
+PDF
+TEST
