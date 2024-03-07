@@ -15,8 +15,7 @@ https://github.com/deltazero-cz/node-isdoc-pdf
 **Inspirovano:**
 https://github.com/deltazero-cz/isdoc-pdf
 
-Testovano:
+**Testovano:**
 Ubuntu 23.10
 
-PDF
-TEST
+Nodejs v18.13.0
