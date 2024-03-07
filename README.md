@@ -6,11 +6,17 @@ Export ISDOC z PDF, ktere tyto informace obsahuji, ulozi pod stejnym nazvem jako
 3. nainstalovat node.js (sudo apt-get install node)
 4. _npm i isdoc-pdf_
 
-**Pouziti:**
+**Pouziti v Linuxu:**
 node export.js NAZEV_SOUBORU.PDF
 
 **Vyuziva knihovny**
 https://github.com/deltazero-cz/node-isdoc-pdf
+
+**Inspirovano:**
+https://github.com/deltazero-cz/isdoc-pdf
+
+Testovano:
+Ubuntu 23.10
 
 PDF
 TEST
